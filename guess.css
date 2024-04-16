@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(Free\ \ Simple\,\ Art\,\ Template\ Background\ Images\,\ Creative\ Food\ Background\ Photo\ Background\ PNG\ and\ Vectors\ \(1\).jfif);
+    background-size: cover;
+}
+main {
+    margin-top: 80px;
+    margin-left: 80px;
+}
+.first {
+    border: 1px solid;
+    width: 500px;
+    height: 400px;
+    background-color: burlywood;
+    border-radius: 30px;
+}
+.top {
+    text-align: center;
+    padding-top: 60px;
+}
+.top input {
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
+.btn {
+    padding-top: 80px;
+    
+}
+.btn button {
+    background-color: rgb(255, 189, 103);
+    border-radius: 13px;
+    width: 200px;
+    height: 50px;
+    
+}
+.first h3 {
+    text-align: center;
+    padding-top: 40px;
+}
+.first h1 {
+    text-align: center;
+}
